@@ -22,3 +22,6 @@ Technology was the top-performing category.
 Anna Andreadi generated the highest total profit.
 
 ### Dashboard Preview
+![Dashboard](screenshotsKPIs.png)
+![Dashboard](screenshots/Sales.png)
+![Dashboard](screenshots/Returns.png)
