@@ -21,7 +21,7 @@ West region generated the highest revenue.
 Technology was the top-performing category.
 Anna Andreadi generated the highest total profit.
 
-### Dashboard Preview
+### Dashboards Preview
 ![Dashboard](screenshots/KPIs.png)
 ![Dashboard](screenshots/Sales.png)
 ![Dashboard](screenshots/Returns.png)
